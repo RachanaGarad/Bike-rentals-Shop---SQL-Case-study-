@@ -59,3 +59,8 @@ customer_id : The ID of the customer who purchased the membership.
 start_date : The start date of the membership.
 end_date : The end date of the membership.
 total_paid : The total amount paid for the membership.
+
+
+
+Ref:This case study is taken from LearnSQL.com. It is part of the "November 2023
+SQL Challenge” course
